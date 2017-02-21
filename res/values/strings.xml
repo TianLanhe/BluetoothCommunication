@@ -2,6 +2,8 @@
 <resources>
 
     <string name="app_name">Did</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="setup">SETUP</string>
+    <string name="health">HEALTH</string>
+    <string name="clear">CLEAR</string>
 
 </resources>
