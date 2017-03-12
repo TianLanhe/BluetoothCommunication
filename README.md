@@ -9,7 +9,8 @@ DID智能口罩APP
 
 ## 截图
 
-![](https://github.com/TianLanhe/Did/raw/master/screenshot.png)
+![](https://github.com/TianLanhe/Did/raw/master/screenshot/screenshot.png)
+![](https://github.com/TianLanhe/Did/raw/master/screenshot/sample.png)
 
 ## 使用说明与注意事项
 * 必须先在手机设置里与蓝牙设备配对后才能使用软件连接
